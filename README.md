@@ -5,10 +5,10 @@
 
 ## I'm a Developer Full stack
 
-- 🔭 je travaille actuellement en tant que développeur freelance
-- 🌱 j'apprends actuellement Meteor
+- 🔭 Je travaille actuellement en tant que développeur freelance
+- 🌱 J'apprends actuellement Meteor
 - 👯 Je souhaite collaborer avec d'autres créateurs de contenu
-- 💻 je recherche actuellement un post en tant que développeur front-end React
+- 💻 Je recherche actuellement un post en tant que développeur front-end React
 
 ### Connect with me:
 
