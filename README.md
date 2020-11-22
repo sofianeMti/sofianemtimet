@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=sofianemtimet.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sofianemtimet.com)
 [![Instagram](https://img.shields.io/website?label=@so.coding&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/so.coding/)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Developer Full stack!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
