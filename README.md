@@ -3,13 +3,12 @@
 [![Website](https://img.shields.io/website?label=sofianemtimet.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sofianemtimet.com)
 [![Instagram](https://img.shields.io/website?label=@so.coding&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/so.coding/)
 
-## I'm a Developer Full stack!!
+## I'm a Developer Full stack
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 je travaille actuellement en tant que développeur freelance
+- 🌱 j'apprends actuellement Meteor
+- 👯 Je souhaite collaborer avec d'autres créateurs de contenu
+- 💻 je recherche actuellement un post en tant que développeur front-end React
 
 ### Connect with me:
 
