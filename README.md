@@ -18,3 +18,15 @@
 [<img align="left" alt="@so.coding | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+
+
+
+
+
+
+
+
+[website]: https://sofianemtimet.com
+[instagram]: https://www.instagram.com/so.coding/
+[linkedin]: https://www.linkedin.com/in/sofianemtimet/
