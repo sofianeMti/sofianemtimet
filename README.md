@@ -1,7 +1,7 @@
 ### Hi there, I'm Sofiane 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sofianemtimet.com)
-[![Instagram]](https://www.instagram.com/so.coding/)
+[![Instagram](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/so.coding/)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
